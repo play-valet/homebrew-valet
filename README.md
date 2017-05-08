@@ -1,5 +1,7 @@
 # homebrew-valet
 
+https://github.com/valet-org/valet
+
 ### install
 ```
 brew tap valet-org/homebrew-valet
