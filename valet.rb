@@ -1,8 +1,8 @@
 class Valet < Formula
   desc "Valet is Web Development Support Tools For Play Framework."
   homepage ""
-  url "https://github.com/valet-org/valet/archive/v0.0.2.tar.gz"
-  sha256 "4bfa9ad59a1ac6d5bff0fbcb858307391b167925473929be988010b451d6c36f"
+  url "https://github.com/play-valet/valet/archive/v0.0.3.tar.gz"
+  sha256 "4e9dc1e18a47b5b1360f9cb165901aa6a7328f486727c065923ba0e5437c8efa"
 
   def install
     bin.install "valet"
